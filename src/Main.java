@@ -1,3 +1,7 @@
+/**
+ * Author: D Pitt
+ */
+
 import java.util.Scanner;
 
 public class Main {
